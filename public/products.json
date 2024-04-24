@@ -1,0 +1,46 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "quantity": 1,
+      "title": "iPhone 9",
+      "description": "An apple mobile which is nothing like apple",
+      "price": 549,    
+      "image": "https://static1.pocketlintimages.com/wordpress/wp-content/uploads/145701-phones-feature-why-was-there-no-iphone-9-plus-what-happened-to-the-iphone-10-image1-2eemylkqfd.png"
+      
+    },
+    {
+      "id": 2,
+      "quantity": 2,
+      "title": "iPhone X",
+      "description": "SIM-Free, Model A19211 6.5-inch Super Retina HD display with OLED technology A12 Bionic chip with ...",
+      "price": 899,
+      "image": "https://images-cdn.ubuy.co.in/65414af8fd4858736a695a7e-pre-owned-apple-iphone-x-256gb-factory.jpghttps://images-cdn.ubuy.co.in/65414af8fd4858736a695a7e-pre-owned-apple-iphone-x-256gb-factory.jpg"
+    },
+    {
+      "id": 3,
+      "quantity": 1,
+      "title": "Samsung Universe 9",
+      "description": "Samsung's new variant which goes beyond Galaxy to the Universe",
+      "price": 1249,
+      "image": "https://images.samsung.com/is/image/samsung/p6pim/in/2401/gallery/in-galaxy-s24-s928-sm-s928bztqins-thumb-539573348"
+     
+    },
+    {
+      "id": 4,
+      "quantity": 3,
+      "title": "OPPOF19",
+      "description": "OPPO F19 is officially announced on April 2021.",
+      "price": 280,
+      "image": "https://www.91-img.com/gallery_images_uploads/2/3/23f8dbab01415756503ad5e1bba030a77987b120.jpg?tr=h-271,c-at_max,q-80,pr-true"
+    },
+    {
+      "id": 5,
+      "quantity": 1,
+      "title": "Huawei P30",
+      "description": "Huawei’s re-badged P30 Pro New Edition was officially unveiled yesterday in Germany and now the device has made its way to the UK.",
+      "price": 499,
+      "image": "https://images-cdn.ubuy.co.in/633ff647ed8e2e306c7cdcdd-huawei-p30-pro-128gb-8gb-ram-vog-l29.jpg"
+    }
+  ]
+}
