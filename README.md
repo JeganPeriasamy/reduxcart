@@ -6,7 +6,10 @@ Application uses:
 2. Reactstrap
 3. Redux-Toolkit
 
-![screencapture-localhost-5173-2024-04-23-20_29_42](https://github.com/vaaluvishnu5146/BookCommerce/assets/22257731/2778501e-3414-4991-8005-3ace6753f5c8)
+Screenshot:
+![image](https://github.com/JeganPeriasamy/reduxcart/assets/166896131/7af78ddb-ce9f-4706-80c7-477c79d33fee)
+
+Click here for live demo: https://phonecartredux.netlify.app/ 
 
 Steps to start application:
 
